@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MustaphaOujaa/MustaphaOujaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 😄 I'm Mustapha, Full Stack Web Developer
+- 🚀 Passionate about building modern web applications
+- 🌱 Currently improving my skills in advanced full-stack development
 
-Here are some ideas to get you started:
+## 📫 Contact Me
+- 📧 Email: your@email.com
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies I Use
+
+### 🧠 Languages
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+
+---
+
+### 🌐 Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Next](https://skillicons.dev/icons?i=next)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+---
+
+### ⚙️ Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+---
+
+## 📊 GitHub Stats
+![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustaphaOujaa&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustaphaOujaa&layout=compact&theme=tokyonight)
