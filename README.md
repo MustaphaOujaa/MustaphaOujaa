@@ -44,10 +44,4 @@
 
 ---
 
-## 📊 GitHub Stats
-![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustaphaOujaa&show_icons=true&theme=tokyonight)
 
----
-
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustaphaOujaa&layout=compact&theme=tokyonight)
