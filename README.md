@@ -6,8 +6,8 @@
 - 🌱 Currently improving my skills in advanced full-stack development
 
 ## 📫 Contact Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email:mustaphaoujaa592@email.com
+
 
 ---
 
